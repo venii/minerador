@@ -1,0 +1,168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vinicius/Desktop/Modelagem CRC.txt",
+		"/C/Users/Vinicius/Desktop/Totvs relatorios.txt",
+		"/C/Users/Vinicius/Desktop/plugin/app/design/frontend/default/default/layout/venijsonmenu.xml",
+		"/C/Users/Vinicius/Desktop/plugin/app/code/community/Veni/Jsonmenu/Model/Observer.php",
+		"/C/wamp/www/magento/app/code/community/Veni/Jsonmenu/Model/Observer.php",
+		"/C/wamp/www/magento/app/code/community/Veni/Jsonmenu/etc/config.xml",
+		"/C/wamp/www/magento/app/design/frontend/default/default/template/veni/2columns-left.phtml",
+		"/C/wamp/www/magento/app/design/frontend/default/default/layout/venijsonmenu.xml",
+		"/C/wamp/www/magento/app/design/frontend/base/default/template/page/2columns-left.phtml",
+		"/C/wamp/www/magento/app/design/frontend/base/default/template/page/3columns.phtml",
+		"/C/wamp/www/magento/app/code/community/Phoenix/Moneybookers/controllers/MoneybookersController.php",
+		"/C/Users/Vinicius/Desktop/magento-2.6.0/lib/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php",
+		"/C/Users/Vinicius/Desktop/partty/www/lib/ngCordova/dist/ng-cordova.js",
+		"/C/Users/Vinicius/Desktop/partty/www/index.html",
+		"/C/Users/Vinicius/Desktop/partty/www/js/controllers.js",
+		"/C/Users/Vinicius/Desktop/partty/www/lib/ngCordova/dist/ng-cordova.min.js",
+		"/C/Users/Vinicius/partty/www/index.html",
+		"/C/Users/Vinicius/partty/www/js/controllers.js",
+		"/C/Users/Vinicius/partty/www/templates/devinfo.html",
+		"/C/Users/Vinicius/partty/www/js/app.js",
+		"/C/Users/Vinicius/partty/www/templates/menu.html",
+		"/C/Users/Vinicius/partty/www/templates/loginfb.html",
+		"/C/Users/Vinicius/partty/www/templates/browse.html",
+		"/C/Users/Vinicius/partty/www/js/mLogcat_1_2_3_0.zip"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Vinicius\\Desktop\\magento-2.6.0\\lib",
+			"C:\\Users\\Vinicius\\Desktop\\magento-2.6.0\\app\\code\\community\\UOL\\PagSeguro",
+			"C:\\Users\\Vinicius\\partty\\www\\templates\\devinfo.html",
+			"C:\\Users\\Vinicius\\partty\\www\\js\\devinfo.html",
+			"C:\\Users\\Vinicius\\partty\\www\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Previsualiar",
+			"PagSeguroPaymentRequest",
+			"cordovaOauth",
+			"facebook",
+			"$scope",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
